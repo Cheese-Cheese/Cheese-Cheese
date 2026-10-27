@@ -1,0 +1,22 @@
+name: YourTomo Pet
+
+on:
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pet:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Update YourTomo Cat
+        uses: prsdx/github-pet@v1
+        with:
+          username: Cheese-Cheese
+          timezone-offset-minutes: "330"

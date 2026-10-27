@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 46" width="100%" height="46">
+  <defs>
+    <linearGradient id="crt-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#080705" />
+      <stop offset="50%" stop-color="#141208" />
+      <stop offset="100%" stop-color="#080705" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <pattern id="scanlines" width="100" height="4" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="100" y2="0" stroke="#E8C700" stroke-width="0.5" stroke-opacity="0.06" />
+    </pattern>
+  </defs>
+
+  <rect x="2" y="2" width="796" height="42" rx="4" fill="url(#crt-grad)" stroke="#E8C700" stroke-width="1.2" stroke-opacity="0.85" />
+  <rect x="2" y="2" width="796" height="42" rx="4" fill="url(#scanlines)" />
+
+  <g transform="translate(328, 17)" fill="#E8C700" filter="url(#glow)">
+    <path d="M0,0h9v1h-9zM12,0h9v1h-9zM25,0h8v1h-8zM43,0h4v1h-4zM48,0h11v1h-11zM63,0h6v1h-6zM73,0h10v1h-10zM85,0h8v1h-8zM109,0h4v1h-4zM121,0h8v1h-8zM135,0h8v1h-8zM0,1h11v1h-11zM12,1h11v1h-11zM24,1h11v1h-11zM43,1h4v1h-4zM48,1h11v1h-11zM61,1h10v1h-10zM73,1h10v1h-10zM84,1h11v1h-11zM109,1h4v1h-4zM120,1h11v1h-11zM133,1h10v1h-10zM0,2h3v1h-3zM7,2h4v1h-4zM12,2h3v1h-3zM19,2h4v1h-4zM24,2h3v1h-3zM31,2h4v1h-4zM43,2h4v1h-4zM48,2h3v1h-3zM61,2h4v1h-4zM67,2h4v1h-4zM76,2h4v1h-4zM84,2h3v1h-3zM91,2h4v1h-4zM109,2h4v1h-4zM120,2h3v1h-3zM127,2h4v1h-4zM133,2h4v1h-4zM0,3h3v1h-3zM7,3h4v1h-4zM12,3h3v1h-3zM19,3h4v1h-4zM24,3h3v1h-3zM31,3h4v1h-4zM43,3h4v1h-4zM48,3h3v1h-3zM60,3h3v1h-3zM76,3h4v1h-4zM84,3h3v1h-3zM109,3h4v1h-4zM120,3h3v1h-3zM127,3h4v1h-4zM132,3h3v1h-3zM0,4h3v1h-3zM7,4h4v1h-4zM12,4h3v1h-3zM18,4h5v1h-5zM24,4h3v1h-3zM31,4h4v1h-4zM43,4h4v1h-4zM48,4h9v1h-9zM60,4h3v1h-3zM76,4h4v1h-4zM85,4h8v1h-8zM109,4h4v1h-4zM120,4h3v1h-3zM127,4h4v1h-4zM132,4h3v1h-3zM138,4h5v1h-5zM0,5h11v1h-11zM12,5h11v1h-11zM24,5h3v1h-3zM31,5h4v1h-4zM43,5h4v1h-4zM48,5h9v1h-9zM60,5h3v1h-3zM76,5h4v1h-4zM85,5h10v1h-10zM109,5h4v1h-4zM120,5h3v1h-3zM127,5h4v1h-4zM132,5h3v1h-3zM138,5h5v1h-5zM0,6h9v1h-9zM12,6h8v1h-8zM24,6h3v1h-3zM31,6h4v1h-4zM43,6h4v1h-4zM48,6h3v1h-3zM60,6h3v1h-3zM76,6h4v1h-4zM91,6h4v1h-4zM109,6h4v1h-4zM120,6h3v1h-3zM127,6h4v1h-4zM132,6h3v1h-3zM139,6h4v1h-4zM0,7h3v1h-3zM12,7h3v1h-3zM16,7h5v1h-5zM24,7h3v1h-3zM31,7h4v1h-4zM36,7h3v1h-3zM43,7h4v1h-4zM48,7h3v1h-3zM60,7h5v1h-5zM67,7h4v1h-4zM76,7h4v1h-4zM84,7h3v1h-3zM91,7h4v1h-4zM99,7h3v1h-3zM109,7h4v1h-4zM120,7h3v1h-3zM127,7h4v1h-4zM132,7h3v1h-3zM139,7h4v1h-4zM0,8h3v1h-3zM12,8h3v1h-3zM16,8h7v1h-7zM24,8h11v1h-11zM36,8h11v1h-11zM48,8h11v1h-11zM61,8h10v1h-10zM76,8h4v1h-4zM84,8h11v1h-11zM99,8h3v1h-3zM109,8h10v1h-10zM120,8h11v1h-11zM133,8h10v1h-10zM0,9h3v1h-3zM12,9h3v1h-3zM18,9h5v1h-5zM25,9h8v1h-8zM37,9h8v1h-8zM48,9h11v1h-11zM63,9h6v1h-6zM76,9h4v1h-4zM85,9h8v1h-8zM99,9h3v1h-3zM109,9h10v1h-10zM121,9h8v1h-8zM135,9h8v1h-8z" />
+  </g>
+</svg>
