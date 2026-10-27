@@ -8,34 +8,19 @@
 <br/>
 
 <!-- ========================================== -->
-<!-- SECTION: PIXEL SANCTUARY (LIVING COMPANIONS) -->
+<!-- SECTION: PIXEL SANCTUARY                   -->
 <!-- ========================================== -->
 <p align="center">
   <img src="./assets/header-sanctuary.svg" width="100%" alt="Pixel Sanctuary Header" />
 </p>
 
-<table align="center" width="100%" border="0">
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <code>[DAEMON_01: YOURTOMO_CAT]</code>
-      <br/><br/>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cheese-Cheese/Cheese-Cheese/main/dist/pet.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cheese-Cheese/Cheese-Cheese/main/dist/pet-light.svg">
-        <img alt="YourTomo Pixel Companion" src="https://raw.githubusercontent.com/Cheese-Cheese/Cheese-Cheese/main/dist/pet.svg" width="340" />
-      </picture>
-      <br/>
-      <sub><em>Real-time activity state machine &bull; Sleep / Zoomies / Streak reaction</em></sub>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <code>[DAEMON_02: GIT_BONSAI]</code>
-      <br/><br/>
-      <img src="https://raw.githubusercontent.com/Cheese-Cheese/Cheese-Cheese/main/output/bonsai-growth.gif" width="340" alt="Git Bonsai Tree" />
-      <br/>
-      <sub><em>Procedural pixel-art bonsai &bull; Grows dynamically with git commit cadence</em></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cheese-Cheese/Cheese-Cheese/main/dist/pet.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cheese-Cheese/Cheese-Cheese/main/dist/pet-light.svg">
+    <img alt="YourTomo Pixel Companion" src="https://raw.githubusercontent.com/Cheese-Cheese/Cheese-Cheese/main/dist/pet.svg" width="100%" />
+  </picture>
+</p>
 
 <br/>
 
@@ -56,7 +41,7 @@
 <table align="center" width="100%">
   <tr>
     <td>
-      I am <img src="./assets/name-ilhan.svg" height="13" align="center" alt="ILhaN" />. In order to achieve something great, I believe working with a team with strong chemistry is key. I adapt well to adverse situations while staying positive.
+      I am <img src="./assets/name-ilhan.svg" height="11" alt="ILhaN" />. In order to achieve something great, I believe working with a team with strong chemistry is key. I adapt well to adverse situations while staying positive.
       <br/><br/>
       I am looking for opportunities that challenge me to bring out the best in myself and drive impactful change in the world. I also want to <strong>explore</strong> the <strong>uncharted</strong>.
     </td>
