@@ -53,6 +53,18 @@
   <img src="./assets/header-about.svg" width="100%" alt="About Me Header" />
 </p>
 
+<table align="center" width="100%">
+  <tr>
+    <td>
+      I am <img src="./assets/name-ilhan.svg" height="13" align="center" alt="ILhaN" />. In order to achieve something great, I believe working with a team with strong chemistry is key. I adapt well to adverse situations while staying positive.
+      <br/><br/>
+      I am looking for opportunities that challenge me to bring out the best in myself and drive impactful change in the world. I also want to <strong>explore</strong> the <strong>uncharted</strong>.
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 ```ini
 [SYSTEM_IDENTITY]
 NAME         = Ilhan Mansij Jidda
@@ -216,6 +228,15 @@ ROLE         = Software Engineer // AI & Distributed Systems
   <!-- GitHub Top Languages Card (Amber-Yellow Theme) -->
   <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Cheese-Cheese&layout=compact&hide_border=false&border_color=E8C700&bg_color=0D1117&title_color=E8C700&text_color=C9D1D9" height="175" alt="Top Languages" />
 </div>
+
+<br/>
+
+<!-- ========================================== -->
+<!-- SECTION: CORE PHILOSOPHY                   -->
+<!-- ========================================== -->
+<p align="center">
+  <img src="./assets/quote.svg" width="100%" alt="Better Adapt than Complain" />
+</p>
 
 <br/>
 
