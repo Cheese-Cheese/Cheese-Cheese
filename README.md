@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typewriter Intro Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2600&pause=1100&color=E8C700&background=0D111700&center=true&vCenter=true&width=760&lines=ILHAN+MANSIJ+JIDDA;%3E+AI+%26+Full-Stack+Engineer;%3E+Voice+AI+Pipelines;%3E+Computer+Vision+Systems;%3E+Distributed+Backends" alt="Terminal Typewriter Intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2600&pause=1100&color=E8C700&background=0D111700&center=true&vCenter=true&width=560&height=50&lines=ILHAN+MANSIJ+JIDDA;%3E+AI+%26+Full-Stack+Engineer;%3E+Voice+AI+Pipelines;%3E+Computer+Vision+Systems;%3E+Distributed+Backends" alt="Terminal Typewriter Intro" />
 
 </div>
 
@@ -77,9 +77,8 @@ ROLE         = Software Engineer // AI & Distributed Systems
   <tr>
     <td width="22%"><strong><code>LANGUAGES</code></strong></td>
     <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,postgres&theme=dark" alt="Languages" />
-      </a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ts,js&theme=dark" alt="Languages" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,c,postgres&theme=dark" alt="Languages" /></a>
     </td>
   </tr>
   <tr>
@@ -96,23 +95,21 @@ ROLE         = Software Engineer // AI & Distributed Systems
   <tr>
     <td width="22%"><strong><code>BACKEND &amp; WEB</code></strong></td>
     <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,flask,nextjs,react,nodejs,tailwind,html,css&theme=dark" alt="Backend & Web" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,flask,nextjs,react&theme=dark" alt="Backend & Web" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,tailwind,html,css&theme=dark" alt="Backend & Web" /></a>
     </td>
   </tr>
   <tr>
     <td width="22%"><strong><code>DATABASES</code></strong></td>
     <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb,postgres&theme=dark" alt="Databases" />
-      </a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb,postgres&theme=dark" alt="Databases" /></a>
     </td>
   </tr>
   <tr>
     <td width="22%"><strong><code>DEVOPS &amp; TOOLS</code></strong></td>
     <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode,postman&theme=dark" alt="Tools & Environments" />
-      </a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,linux&theme=dark" alt="Tools & Environments" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ubuntu,vscode,postman&theme=dark" alt="Tools & Environments" /></a>
     </td>
   </tr>
 </table>
@@ -129,14 +126,15 @@ ROLE         = Software Engineer // AI & Distributed Systems
 <table align="center" width="100%">
   <!-- Project 1 -->
   <tr>
-    <td width="16%" align="center">
-      <img src="https://raw.githubusercontent.com/Cheese-Cheese/sparta/main/frontend/public/sparta-shield.svg" width="52" alt="SPARTA Shield" onerror="this.src='https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg'" />
-      <br/><br/>
-      <img src="./assets/logo-sparta.svg" width="120" alt="S.P.A.R.T.A." />
-    </td>
     <td>
+      <a href="https://github.com/Cheese-Cheese/sparta">
+        <img src="https://raw.githubusercontent.com/Cheese-Cheese/sparta/main/frontend/public/sparta-shield.svg" width="36" height="36" align="center" alt="SPARTA Shield" onerror="this.src='https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg'" />
+        &nbsp;
+        <img src="./assets/logo-sparta.svg" height="26" align="center" alt="S.P.A.R.T.A." />
+      </a>
+      &nbsp;&bull;&nbsp;
       <strong>AI-Powered Resume Review &amp; Real-Time Voice Interview Platform</strong>
-      <br/>
+      <br/><br/>
       Smart Platform for Adversarial Readiness &amp; Technical Assessment. Compares resumes against job descriptions using Groq-hosted LLMs, PyMuPDF extraction, and NVIDIA Nemotron OCR fallback for scanned pages.
       <br/>
       <sub><strong>Key Architecture:</strong> Real-time voice interview engine (Deepgram STT) with Finite State Machine (FSM) orchestration for predictable dataflow, repository coverage reporting, and offline test suites.</sub>
@@ -155,12 +153,13 @@ ROLE         = Software Engineer // AI & Distributed Systems
 
   <!-- Project 2 -->
   <tr>
-    <td width="16%" align="center">
-      <img src="./assets/logo-shiksha.svg" width="120" alt="Shiksha AI" />
-    </td>
     <td>
+      <a href="https://github.com/Cheese-Cheese/voice-for-bharat-challenge-2026">
+        <img src="./assets/logo-shiksha.svg" height="26" align="center" alt="Shiksha AI" />
+      </a>
+      &nbsp;&bull;&nbsp;
       <strong>Real-Time Spoken English Voice Tutor (Voice for Bharat Challenge 2026)</strong>
-      <br/>
+      <br/><br/>
       Engineered a multi-agent spoken English tutor across Murf Falcon streaming TTS, Deepgram Nova-3 STT, and Gemini 2.5 on LiveKit Agents, backed by Next.js and outbound SIP telephony.
       <br/>
       <sub><strong>Key Architecture:</strong> Integrated live dictionary &amp; grammar REST APIs as LLM tools with spoken fail-soft fallbacks, human teacher escalation dashboards, and a 22-test pytest suite.</sub>
@@ -179,12 +178,13 @@ ROLE         = Software Engineer // AI & Distributed Systems
 
   <!-- Project 3 -->
   <tr>
-    <td width="16%" align="center">
-      <img src="./assets/logo-woundcare.svg" width="120" alt="WoundCare AI" />
-    </td>
     <td>
+      <a href="https://github.com/Cheese-Cheese/MITHackathon">
+        <img src="./assets/logo-woundcare.svg" height="26" align="center" alt="WoundCare AI" />
+      </a>
+      &nbsp;&bull;&nbsp;
       <strong>Clinical Support System for Chronic Wound Diagnostics (MIT Hackathon)</strong>
-      <br/>
+      <br/><br/>
       Dual-model computer vision pipeline combining U-Net semantic segmentation and MobileNetV2 tissue classification with reference-patch calibration converting pixel measurements to real wound surface area (cm&sup2;).
       <br/>
       <sub><strong>Key Architecture:</strong> Flask REST API backend with Streamlit multi-role clinical dashboard (Doctor/Patient portals) and automated PDF diagnostic reporting.</sub>
@@ -220,8 +220,14 @@ ROLE         = Software Engineer // AI & Distributed Systems
 <!-- SECTION: CORE PHILOSOPHY                   -->
 <!-- ========================================== -->
 <p align="center">
-  <img src="./assets/quote.svg" width="100%" alt="Better Adapt than Complain" />
+  <img src="./assets/header-quote.svg" width="100%" alt="My Quote Header" />
 </p>
+
+<div align="center">
+
+# *"Better Adapt than Complain"*
+
+</div>
 
 <br/>
 

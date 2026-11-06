@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 68" width="100%" height="68">
+  <defs>
+    <linearGradient id="crt-grad-quote" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#080705" />
+      <stop offset="50%" stop-color="#141208" />
+      <stop offset="100%" stop-color="#080705" />
+    </linearGradient>
+    <filter id="glow-quote" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <pattern id="scanlines-quote" width="100" height="4" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="100" y2="0" stroke="#E8C700" stroke-width="0.5" stroke-opacity="0.06" />
+    </pattern>
+  </defs>
+
+  <rect x="2" y="2" width="796" height="64" rx="6" fill="url(#crt-grad-quote)" stroke="#E8C700" stroke-width="1.8" stroke-opacity="0.85" />
+  <rect x="2" y="2" width="796" height="64" rx="6" fill="url(#scanlines-quote)" />
+
+  <g transform="translate(293, 24)" fill="#E8C700" filter="url(#glow-quote)">
+    <path d="M0,0h5v1h-5zM11,0h5v1h-5zM20,0h5v1h-5zM29,0h5v1h-5zM56,0h12v1h-12zM72,0h5v1h-5zM83,0h5v1h-5zM92,0h12v1h-12zM110,0h14v1h-14zM126,0h16v1h-16zM164,0h14v1h-14zM180,0h5v1h-5zM191,0h5v1h-5zM200,0h14v1h-14zM0,1h5v1h-5zM11,1h5v1h-5zM20,1h5v1h-5zM29,1h5v1h-5zM56,1h12v1h-12zM72,1h5v1h-5zM83,1h5v1h-5zM92,1h12v1h-12zM110,1h14v1h-14zM126,1h16v1h-16zM164,1h14v1h-14zM180,1h5v1h-5zM191,1h5v1h-5zM200,1h14v1h-14zM0,2h5v1h-5zM11,2h5v1h-5zM20,2h5v1h-5zM29,2h5v1h-5zM56,2h3v1h-3zM65,2h3v1h-3zM72,2h5v1h-5zM83,2h5v1h-5zM92,2h3v1h-3zM101,2h3v1h-3zM115,2h4v1h-4zM126,2h5v1h-5zM169,2h4v1h-4zM180,2h5v1h-5zM191,2h5v1h-5zM205,2h4v1h-4zM0,3h7v1h-7zM9,3h7v1h-7zM20,3h5v1h-5zM29,3h5v1h-5zM54,3h5v1h-5zM65,3h5v1h-5zM72,3h5v1h-5zM83,3h5v1h-5zM90,3h5v1h-5zM101,3h5v1h-5zM115,3h4v1h-4zM126,3h5v1h-5zM169,3h4v1h-4zM180,3h5v1h-5zM191,3h5v1h-5zM205,3h4v1h-4zM0,4h7v1h-7zM9,4h7v1h-7zM20,4h5v1h-5zM29,4h5v1h-5zM54,4h5v1h-5zM65,4h5v1h-5zM72,4h5v1h-5zM83,4h5v1h-5zM90,4h5v1h-5zM101,4h5v1h-5zM115,4h4v1h-4zM126,4h5v1h-5zM169,4h4v1h-4zM180,4h5v1h-5zM191,4h5v1h-5zM205,4h4v1h-4zM0,5h16v1h-16zM20,5h5v1h-5zM29,5h5v1h-5zM54,5h5v1h-5zM65,5h5v1h-5zM72,5h5v1h-5zM83,5h5v1h-5zM90,5h5v1h-5zM101,5h5v1h-5zM115,5h4v1h-4zM126,5h5v1h-5zM169,5h4v1h-4zM182,5h5v1h-5zM189,5h5v1h-5zM205,5h4v1h-4zM0,6h16v1h-16zM20,6h5v1h-5zM29,6h5v1h-5zM54,6h5v1h-5zM65,6h5v1h-5zM72,6h5v1h-5zM83,6h5v1h-5zM90,6h5v1h-5zM101,6h5v1h-5zM115,6h4v1h-4zM126,6h5v1h-5zM169,6h4v1h-4zM182,6h5v1h-5zM189,6h5v1h-5zM205,6h4v1h-4zM0,7h16v1h-16zM22,7h3v1h-3zM29,7h3v1h-3zM54,7h5v1h-5zM65,7h5v1h-5zM72,7h5v1h-5zM83,7h5v1h-5zM90,7h5v1h-5zM101,7h5v1h-5zM115,7h4v1h-4zM126,7h5v1h-5zM169,7h4v1h-4zM182,7h5v1h-5zM189,7h5v1h-5zM205,7h4v1h-4zM0,8h5v1h-5zM7,8h2v1h-2zM11,8h5v1h-5zM22,8h10v1h-10zM54,8h5v1h-5zM65,8h5v1h-5zM72,8h5v1h-5zM83,8h5v1h-5zM90,8h5v1h-5zM101,8h5v1h-5zM115,8h4v1h-4zM126,8h14v1h-14zM169,8h4v1h-4zM184,8h7v1h-7zM205,8h4v1h-4zM0,9h5v1h-5zM7,9h2v1h-2zM11,9h5v1h-5zM22,9h10v1h-10zM54,9h5v1h-5zM65,9h5v1h-5zM72,9h5v1h-5zM83,9h5v1h-5zM90,9h5v1h-5zM101,9h5v1h-5zM115,9h4v1h-4zM126,9h14v1h-14zM169,9h4v1h-4zM184,9h7v1h-7zM205,9h4v1h-4zM0,10h5v1h-5zM7,10h2v1h-2zM11,10h5v1h-5zM25,10h4v1h-4zM54,10h5v1h-5zM61,10h9v1h-9zM72,10h5v1h-5zM83,10h5v1h-5zM90,10h5v1h-5zM101,10h5v1h-5zM115,10h4v1h-4zM126,10h5v1h-5zM169,10h4v1h-4zM182,10h5v1h-5zM189,10h5v1h-5zM205,10h4v1h-4zM0,11h5v1h-5zM7,11h2v1h-2zM11,11h5v1h-5zM25,11h4v1h-4zM54,11h5v1h-5zM61,11h9v1h-9zM72,11h5v1h-5zM83,11h5v1h-5zM90,11h5v1h-5zM101,11h5v1h-5zM115,11h4v1h-4zM126,11h5v1h-5zM169,11h4v1h-4zM182,11h5v1h-5zM189,11h5v1h-5zM205,11h4v1h-4zM0,12h5v1h-5zM11,12h5v1h-5zM25,12h4v1h-4zM54,12h5v1h-5zM63,12h5v1h-5zM72,12h5v1h-5zM83,12h5v1h-5zM90,12h5v1h-5zM101,12h5v1h-5zM115,12h4v1h-4zM126,12h5v1h-5zM148,12h5v1h-5zM169,12h4v1h-4zM180,12h5v1h-5zM191,12h5v1h-5zM205,12h4v1h-4zM0,13h5v1h-5zM11,13h5v1h-5zM25,13h4v1h-4zM54,13h5v1h-5zM63,13h5v1h-5zM72,13h5v1h-5zM83,13h5v1h-5zM90,13h5v1h-5zM101,13h5v1h-5zM115,13h4v1h-4zM126,13h5v1h-5zM148,13h5v1h-5zM169,13h4v1h-4zM180,13h5v1h-5zM191,13h5v1h-5zM205,13h4v1h-4zM0,14h5v1h-5zM11,14h5v1h-5zM25,14h4v1h-4zM54,14h5v1h-5zM63,14h5v1h-5zM74,14h3v1h-3zM83,14h3v1h-3zM90,14h5v1h-5zM101,14h5v1h-5zM115,14h4v1h-4zM126,14h5v1h-5zM148,14h5v1h-5zM169,14h4v1h-4zM180,14h5v1h-5zM191,14h5v1h-5zM205,14h4v1h-4zM0,15h5v1h-5zM11,15h5v1h-5zM25,15h4v1h-4zM56,15h9v1h-9zM67,15h3v1h-3zM74,15h12v1h-12zM92,15h12v1h-12zM115,15h4v1h-4zM126,15h16v1h-16zM148,15h5v1h-5zM169,15h4v1h-4zM180,15h5v1h-5zM191,15h5v1h-5zM205,15h4v1h-4zM0,16h5v1h-5zM11,16h5v1h-5zM25,16h4v1h-4zM56,16h9v1h-9zM67,16h3v1h-3zM74,16h12v1h-12zM92,16h12v1h-12zM115,16h4v1h-4zM126,16h16v1h-16zM148,16h5v1h-5zM169,16h4v1h-4zM180,16h5v1h-5zM191,16h5v1h-5zM205,16h4v1h-4zM36,17h16v1h-16zM36,18h16v1h-16z" />
+  </g>
+</svg>
