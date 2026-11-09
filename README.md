@@ -154,6 +154,33 @@ ROLE         = Software Engineer // AI & Distributed Systems
   <!-- Project 2 -->
   <tr>
     <td>
+      <a href="https://github.com/Cheese-Cheese/CathodeRayStats">
+        <img src="https://raw.githubusercontent.com/Cheese-Cheese/CathodeRayStats/main/preview/svgs/freeze-ch1-stats.svg" height="36" align="center" alt="CathodeRayStats CRT TV" onerror="this.src='./assets/freeze-ch1-stats.svg'" />
+        &nbsp;
+        <img src="./assets/logo-cathoderaystats.svg" height="26" align="center" alt="CATHODERAYSTATS" />
+      </a>
+      &nbsp;&bull;&nbsp;
+      <strong>Animated Retro CRT TV GitHub Statistics Widget &amp; GitHub Action</strong>
+      <br/><br/>
+      Zero-runtime-dependency GitHub Action dynamically generating customizable, animated CRT television SVGs with cycling channels for live system stats, language breakdowns, repository spotlight, and activity radar.
+      <br/>
+      <sub><strong>Key Architecture:</strong> TypeScript/Node.js rendering engine bundling pure SVG output with embedded VT323 pixel typography, CSS @keyframes phosphor scanlines/noise textures, and GitHub GraphQL API integration (GitHub Camo compatible).</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=E8C700" />
+      <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=E8C700" />
+      <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=E8C700" />
+      <img src="https://img.shields.io/badge/SVG_Animation-0D1117?style=flat-square&logo=w3c&logoColor=E8C700" />
+      <img src="https://img.shields.io/badge/GraphQL_API-0D1117?style=flat-square&logo=graphql&logoColor=E8C700" />
+      &nbsp;&bull;&nbsp;
+      <a href="https://github.com/Cheese-Cheese/CathodeRayStats"><code>[SOURCE_REPO]</code></a>
+      &nbsp;&bull;&nbsp;
+      <a href="https://github.com/marketplace/actions/cathoderaystats"><code>[MARKETPLACE]</code></a>
+    </td>
+  </tr>
+
+  <!-- Project 3 -->
+  <tr>
+    <td>
       <a href="https://github.com/Cheese-Cheese/voice-for-bharat-challenge-2026">
         <img src="./assets/logo-shiksha.svg" height="26" align="center" alt="Shiksha AI" />
       </a>
@@ -176,7 +203,7 @@ ROLE         = Software Engineer // AI & Distributed Systems
     </td>
   </tr>
 
-  <!-- Project 3 -->
+  <!-- Project 4 -->
   <tr>
     <td>
       <a href="https://github.com/Cheese-Cheese/MITHackathon">
@@ -209,10 +236,13 @@ ROLE         = Software Engineer // AI & Distributed Systems
   <img src="./assets/header-stats.svg" width="100%" alt="Metrics and Stats Header" />
 </p>
 
-<div align="center">
-  <!-- GitHub Top Languages Card (Amber-Yellow Theme) -->
-  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Cheese-Cheese&layout=compact&hide_border=false&border_color=E8C700&bg_color=0D1117&title_color=E8C700&text_color=C9D1D9" height="175" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="./dist/retro-tv.svg" alt="CathodeRayStats Widget" width="650" />
+</p>
+
+<p align="center">
+  <sub><code>&gt; TELEMETRY_BROADCAST: Like this CRT telemetry monitor? Deploy your own unit &bull; <a href="https://github.com/Cheese-Cheese/CathodeRayStats"><code>[DEPLOY_CATHODERAYSTATS]</code></a></code></sub>
+</p>
 
 <br/>
 
