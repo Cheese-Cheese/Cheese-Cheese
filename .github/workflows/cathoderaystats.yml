@@ -2,7 +2,7 @@ name: CathodeRayStats
 
 on:
   schedule:
-    - cron: '23 */6 * * *' # Every 6 hours
+    - cron: '1 */24 * * *' # Every 24 hours
   workflow_dispatch:      # Manual trigger button in GitHub Actions tab
 
 permissions:
