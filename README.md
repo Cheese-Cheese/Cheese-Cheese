@@ -155,14 +155,14 @@ ROLE         = Software Engineer // AI & Distributed Systems
   <tr>
     <td>
       <a href="https://github.com/Cheese-Cheese/CathodeRayStats">
-        <img src="https://raw.githubusercontent.com/Cheese-Cheese/CathodeRayStats/main/preview/svgs/freeze-ch1-stats.svg" height="36" align="center" alt="CathodeRayStats CRT TV" onerror="this.src='./assets/freeze-ch1-stats.svg'" />
+        <img src="https://raw.githubusercontent.com/Cheese-Cheese/CathodeRayStats/main/assets/logo.svg" height="36" align="center" alt="CathodeRayStats Logo" onerror="this.src='./assets/logo-crs.svg'" />
         &nbsp;
         <img src="./assets/logo-cathoderaystats.svg" height="26" align="center" alt="CATHODERAYSTATS" />
       </a>
       &nbsp;&bull;&nbsp;
       <strong>Animated Retro CRT TV GitHub Statistics Widget &amp; GitHub Action</strong>
       <br/><br/>
-      Zero-runtime-dependency GitHub Action dynamically generating customizable, animated CRT television SVGs with cycling channels for live system stats, language breakdowns, repository spotlight, and activity radar.
+      Zero-runtime-dependency GitHub Action dynamically generating customizable, animated CRT television SVGs with cycling channels for live system stats, language breakdowns, repository spotlight, and activity radar. Features a live interactive studio for real-time theme customization.
       <br/>
       <sub><strong>Key Architecture:</strong> TypeScript/Node.js rendering engine bundling pure SVG output with embedded VT323 pixel typography, CSS @keyframes phosphor scanlines/noise textures, and GitHub GraphQL API integration (GitHub Camo compatible).</sub>
       <br/><br/>
@@ -173,6 +173,8 @@ ROLE         = Software Engineer // AI & Distributed Systems
       <img src="https://img.shields.io/badge/GraphQL_API-0D1117?style=flat-square&logo=graphql&logoColor=E8C700" />
       &nbsp;&bull;&nbsp;
       <a href="https://github.com/Cheese-Cheese/CathodeRayStats"><code>[SOURCE_REPO]</code></a>
+      &nbsp;&bull;&nbsp;
+      <a href="https://cheese-cheese.github.io/CathodeRayStats/"><code>[LIVE_PREVIEW]</code></a>
       &nbsp;&bull;&nbsp;
       <a href="https://github.com/marketplace/actions/cathoderaystats"><code>[MARKETPLACE]</code></a>
     </td>
@@ -241,7 +243,7 @@ ROLE         = Software Engineer // AI & Distributed Systems
 </p>
 
 <p align="center">
-  <sub><code>&gt; TELEMETRY_BROADCAST: Like this CRT telemetry monitor? Deploy your own unit &bull; <a href="https://github.com/Cheese-Cheese/CathodeRayStats"><code>[DEPLOY_CATHODERAYSTATS]</code></a></code></sub>
+  <sub><code>&gt; TELEMETRY_BROADCAST: Like this CRT telemetry monitor? Customize &amp; deploy your unit &bull; <a href="https://cheese-cheese.github.io/CathodeRayStats/"><code>[LIVE_STUDIO]</code></a> &bull; <a href="https://github.com/Cheese-Cheese/CathodeRayStats"><code>[DEPLOY_CATHODERAYSTATS]</code></a></code></sub>
 </p>
 
 <br/>
